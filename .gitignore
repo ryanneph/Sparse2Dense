@@ -1,0 +1,5 @@
+*.so
+*.c
+*.h5
+build/
+*.egg-info
